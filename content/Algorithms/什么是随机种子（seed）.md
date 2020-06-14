@@ -1,5 +1,5 @@
 ---
-date:   2020-03-03
+date:   2020-02-29
 layout: post
 title:  "什么是随机种子（seed）"
 tag: "Algorithms"
