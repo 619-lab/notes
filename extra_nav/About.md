@@ -3,7 +3,7 @@
 ### 自我介绍
 
 - 守望子（JL） 90后
-- 专业打杂程序员，Gopher，擅长看斗鱼…
+- 专业打杂程序员，Gopher，擅长看斗鱼哈…
 - GitHub：[cmis110](https://github.com/gopher110)|Twitter：[cmis110](https://twitter.com/cmis110)|Weibo：[cmis110](https://weibo.com/cmis110)
 
 ### 个人经历
