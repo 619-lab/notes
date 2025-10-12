@@ -1,7 +1,7 @@
-# JL's blog doc
-***
-Blog link:[cmis110.cn](https://cmis110.cn)
+# Notes by ovlunar
 
-Code base:[markdown blog](https://github.com/gopher110/common-task/tree/master/markdown-blog)
+This repository includes legacy notes from the old ovlunar blog (2018–2020) in the `legacy` folder.
+New content will be added as an EP series of personal ideas, development logs, and experiments.
+
 
 
